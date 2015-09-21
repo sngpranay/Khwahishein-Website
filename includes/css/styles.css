@@ -1,0 +1,467 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Pranay Singh
+Updated: April 2015
+Notes:	 Hand coded for Khwashein
+
+*/
+
+
+
+ .a{
+position: relative ;
+margin: 0 0 0 0;
+padding:0px;
+}
+
+   
+/* ------------------------------------------ // The outlines //-------------------------------------------- */
+.picone {
+
+position:relative;
+margin-left: -150px;
+margin-top: 50px;
+padding : 0px;
+max-height: 200px;
+max-width: 200px;
+}
+
+
+.pictwo {
+
+position:relative;
+margin-left: -150px;
+margin-top: -50px;
+padding : 0px;
+max-height: 200px;
+max-width: 200px;
+}
+
+.picthree {
+
+position:relative;
+margin-left: -150px;
+margin-top: 300px;
+padding : 0px;
+max-height: 200px;
+max-width: 200px;
+}
+
+
+.picfour {
+
+position:relative;
+margin-left: -150px;
+margin-top: 50px;
+padding : 0px;
+max-height: 200px;
+max-width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#a{
+position: relative;
+width: 530px;
+height:2px;
+background-color: #8492B0;
+margin-left: 0px;
+margin-top: 100px;
+margin-bottom: -150px;
+
+
+}
+
+.b
+{
+height:300px;
+width:2px;
+background-color: #8492B0;
+position:relative;
+margin-left:600px;
+margin-top:-210px;
+}
+
+.c
+{
+position: relative;
+width: 510px;
+height:2px;
+background-color: #8492B0;
+margin-left: 30px;
+margin-top: 200px;
+margin-bottom:-100px;
+
+
+}
+
+.d
+{
+position: relative;
+width: 2px;
+height: 400px;
+background-color: #8492B0;
+margin-left: 610px;
+margin-top: -470px;
+margin-bottom:30px;
+}
+
+.e
+{
+position: relative;
+width: 1150px;
+height: 2px;
+background-color: #8492B0;
+margin-left: -600px;
+margin-top: 130px;
+margin-bottom:0px;
+}
+
+
+.f
+{
+position: relative;
+width: 2px;
+height: 300px;
+background-color: #8492B0;
+margin-left: -30px;
+margin-top: 70px;
+margin-bottom:0px;
+}
+
+.g
+{
+position: relative;
+width: 1150px;
+height: 2px;
+background-color: #8492B0;
+margin-left: 0px;
+margin-top: 120px;
+margin-bottom:0px;
+}
+
+.h
+{
+position: relative;
+width: 2px;
+height: 290px;
+background-color: #8492B0;
+margin-left: 595px;
+margin-top: -230px;
+margin-bottom:30px;
+}
+
+.i
+{
+position: relative;
+width: 550px;
+height: 2px;
+background-color: #8492B0;
+margin-left: 600px;
+margin-top: 7px;
+margin-bottom:0px;
+}
+
+.j
+{
+height:250px;
+width:2px;
+background-color: #8492B0;
+position:relative;
+margin-left:0px;
+margin-top: 80px;
+margin-bottom: 40px;
+}   
+   
+   
+   
+   
+   
+
+
+
+
+.navbar-brand {
+
+height:90px;
+
+}
+.navbar.past-main {
+    background-color:#fff;
+    
+}
+
+.navbar navbar-fixed-top{
+height: 50px;
+}
+
+.across{
+height:500px;
+width:2px;
+background-color: #8492B0;
+position:relative;
+margin-left:600px;
+margin-top:-350px;
+}
+
+
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+
+.nav-pills {
+    margin-top:10px;
+   }
+
+.pill{
+font-family:'Lato' ;
+font-size:20px;
+color:#FF3399;
+
+}   
+
+.nav{
+transition-duration:1s;}
+
+.pill a{
+color:#E60000;}   
+   
+.about{
+font-family: 'Lato' ;
+font-size: 40px;
+position:relative;
+margin-top: 400px;
+z-index:1;
+} 
+
+.para{
+font-family: 'Open Sans' ;
+font-size: 17px;
+text-indent:50px;
+text-align:justify;
+letter-spacing:0px;
+
+
+/* text-align: justify; */
+
+}
+
+.project{
+font-family: 'Lato' ;
+font-size: 40px;
+margin-top: 150px;
+}
+.team{
+font-family: 'Lato' ;
+font-size: 40px;
+margin-top: -250px;
+}
+.volunteer{
+font-family: 'Lato' ;
+font-size: 40px;
+margin-top:140px;
+}
+
+.donate{
+font-family: 'Lato' ;
+font-size: 40px;
+margin-top:70px;
+}
+
+.btn-primary{
+margin-top: 30px;
+font-family:'Lato';
+width:270px;
+}
+
+.btn-success{
+margin-top: 30px;
+font-family:'Lato';
+width:270px;
+}
+
+.btn-info{
+margin-top: 30px;
+margin-bottom: 30px;
+font-family:'Lato';
+width:270px;
+}
+
+#border{
+position: relative;
+width: 480px;
+height:2px;
+background-color: #8492B0;
+margin-left: 70px;
+margin-top: 30px;
+margin-bottom:30px;
+
+}
+
+
+
+.wrapper{
+height: 300px;} 
+ 
+.about{
+margin-top:200px;
+
+}
+
+.projects{
+margin-top:-150px;
+}
+ 
+
+
+ul.unstyled{
+list-style:none;
+padding:0;
+}
+
+li{
+display:inline;
+padding:4px;}
+
+footer{
+background: #333;
+color: #eee;
+font-size:11px;
+padding: 20px;
+font-family:'Lato';
+
+}
+
+#social{
+font-size:20px;
+font-family:'Lato';
+}
+
+#contact{
+font-size:20px;
+font-family:'Lato';
+}
+
+#line{
+font-size:13px;
+margin-top:10px;
+font-family:'Lato';
+}
+
+#end{
+margin-top:20px;
+font-size:15px;
+font-family:'Lato';
+}
+
+
+/* #jumbo{
+height: 200px;
+width:100%;
+
+} */
+
+
+.wrapper{
+position:relative;
+z-index:0;
+}
+
+.intro{
+position:relative;
+margin-top: -30%;  
+color:#FFFFFF;
+font-family:'Courier';
+height:200px;
+width:500px;
+background-color:rgba(230,0,0,0.2);
+padding:0px;
+z-index:3;
+
+}
+
+.text{
+padding:10px 2px 0 10px;
+font-family:'Courier';
+}
+
+.verb {
+font-style:italic;
+padding:0 2px 0 10px;
+font-family:'Courier';
+}
+
+.def{
+padding:0 2px 0 10px;
+font-family:'Courier';
+
+}
+
+
+
+
+/* .wrapper{background: url('d.jpg') no-repeat   center center fixed;
+height:auto;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}  *
+
+
+
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+.about{
+font-size: 10px;
+} 	
+.pill{
+font-size: 20px;
+}
+
+.para{
+font-size: 50%;
+}
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+.about{
+font-size: 20px;
+} 	
+
+.pill{
+font-size: 10px;
+}
+.para{
+font-size: 20px;
+}
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
